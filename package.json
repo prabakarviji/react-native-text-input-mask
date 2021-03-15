@@ -9,7 +9,7 @@
   "typings": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-native-community/react-native-text-input-mask"
+    "url": "https://github.com/prabakarviji/react-native-text-input-mask/react-native-text-input-mask"
   },
   "keywords": [
     "react",
@@ -32,7 +32,7 @@
   },
   "author": "Ivan Zotov",
   "bugs": {
-    "url": "https://github.com/react-native-community/react-native-text-input-mask/issues"
+    "url": "https://github.com/prabakarviji/react-native-text-input-mask/react-native-text-input-mask/issues"
   },
-  "homepage": "https://github.com/react-native-community/react-native-text-input-mask"
+  "homepage": "https://github.com/prabakarviji/react-native-text-input-mask/react-native-text-input-mask"
 }
